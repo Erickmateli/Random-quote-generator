@@ -1,0 +1,12 @@
+#quotes{
+  width: 400px;
+  height: 50px;
+  border: 1px solid #ccc;
+  color: #000;
+  font-family: Tahoma;
+  font-size: 14px;
+  padding: 20px;
+}
+button {
+  margin-top: 10px;
+}
